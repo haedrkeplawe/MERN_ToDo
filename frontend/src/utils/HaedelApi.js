@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "https://mern-elecric-api-3sm4.onrender.com/api/task"
+const baseUrl = "https://todo-9dfv.onrender.com/api/task"
 
 const getAllTodo = (setTasks) => {
     axios.get(baseUrl)
