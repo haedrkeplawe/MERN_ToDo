@@ -1,1 +1,1 @@
-export const Base_Url = "https://todo-9dfv.onrender.com/api/task";
+export const Base_Url = "https://todo-9dfv.onrender.com/";
